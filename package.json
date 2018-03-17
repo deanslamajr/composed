@@ -1,0 +1,15 @@
+{
+  "name": "composed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "melody.js",
+  "scripts": {
+    "test": "standard --fix",
+    "start": "node melody.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard": "^10.0.3"
+  }
+}
